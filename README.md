@@ -15,6 +15,11 @@
 -  GitHub其他账号: [@13244431027yuan](https://github.com/13244431027yuan)，
 -  [@13244431027zy](https://github.com/13244431027zy)
 -  [@13244431027zzy](https://github.com/13244431027zzy)
+
+邮箱email 
+-  13244431027@163.com
+-  3632482919@qq.com
+
 ---
 
 欢迎关注我的代码更新和项目进展！
