@@ -20,10 +20,9 @@ This is my personal code repository, used to showcase some of my works.
 -  GitHub main account: [@13244431027](https://github.com/13244431027)  
 
 -  GitHub其他账号: [@13244431027yuan](https://github.com/13244431027yuan)，  
--  GitHub other accounts: [@13244431027yuan](https://github.com/13244431027yuan),  
+-  GitHub other accounts:
+-  [@13244431027yuan](https://github.com/13244431027yuan),  
 -  [@13244431027zy](https://github.com/13244431027zy)  
--  [@13244431027zy](https://github.com/13244431027zy)  
--  [@13244431027zzy](https://github.com/13244431027zzy)  
 -  [@13244431027zzy](https://github.com/13244431027zzy)  
 
 邮箱email  
