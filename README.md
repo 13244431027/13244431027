@@ -28,8 +28,6 @@ This is my personal code repository, used to showcase some of my works.
 邮箱email  
 Email  
 -  13244431027@163.com  
--  13244431027@163.com  
--  3632482919@qq.com  
 -  3632482919@qq.com  
 
 当然可以的话，你可以在issues 中提出关于我问题，聊天也可以  
@@ -37,8 +35,20 @@ Of course, if you like, you can raise questions about me in Issues, or just chat
 
 ---
 
-欢迎关注我的代码更新和项目进展！  
-Welcome to follow my code updates and project progress!  
+
 
 **感谢你的访问！**  
 **Thanks for your visit!**
+
+
+
+
+
+
+
+---
+#### 一些有关我的有趣问题
+<details>    
+    <summary>Q:为什么我的头像是默认的</summary>
+    因为
+</details>
