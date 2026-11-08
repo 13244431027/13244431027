@@ -50,5 +50,5 @@ Of course, if you like, you can raise questions about me in Issues, or just chat
 #### 一些有关我的有趣问题
 <details>    
     <summary>Q:为什么我的头像是默认的</summary>
-    因为我姓'张'而这个默认的头像巧合的也有点像'张'字，很有趣的事，对吧
+    A:因为我姓'张'而这个默认的头像巧合的也有点像'张'字，很有趣的事，对吧
 </details>
