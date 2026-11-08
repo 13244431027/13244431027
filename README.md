@@ -1,5 +1,10 @@
 
-[![13244431027](https://img.shields.io/badge/13244431027-green?style=social)](https://github.com/13244431027)
+<p align="center">
+  <a href="https://github.com/13244431027">
+    <img src="https://img.shields.io/badge/GitHub-13244431027-181717?logo=github&style=flat-square" alt="GitHub">
+  </a>
+  <img src="https://img.shields.io/badge/Status-Coding-success?style=flat-square" alt="Status">
+</p>
 
 #  欢迎来到我的 GitHub 个人主页  
 #  Welcome to my GitHub personal homepage  
