@@ -1,3 +1,7 @@
+
+[![License](https://img.shields.io/badge/13244431027-green)](https://github.com/13244431027)
+
+
 #  欢迎来到我的 GitHub 个人主页  
 #  Welcome to my GitHub personal homepage  
 
