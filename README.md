@@ -48,9 +48,9 @@ Of course, if you like, you can raise questions about me in Issues, or just chat
 **感谢你的访问！**  
 **Thanks for your visit!**
 
-![Snake](https://raw.githubusercontent.com/13244431027/13244431027/output/github-contribution-grid-snake.svg)
 
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=13244431027.13244431027)
 
 
 
