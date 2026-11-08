@@ -62,5 +62,6 @@ Of course, if you like, you can raise questions about me in Issues, or just chat
 </details>
 <details>
   <summary>你是第几个访问我的</summary>
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=13244431027.13244431027)
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=13244431027.13244431027" alt="visitors">
+  
 </details>
